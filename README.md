@@ -1,1 +1,2 @@
 # Stopwatch-Web-Application
+This is a sleek and functional Stopwatch web application built using HTML, CSS, and JavaScript. It features start, stop, and reset functionalities with real-time time tracking in hours, minutes, seconds, and milliseconds. The clean and responsive design makes it easy to use on both desktop and mobile devices, making it a great project to demonstrate time-based event handling and DOM manipulation using vanilla JavaScript.
